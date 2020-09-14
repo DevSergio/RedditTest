@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoroutinesTest</string>
+
+    <string name="database">Reddit.db</string>
+</resources>

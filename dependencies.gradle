@@ -1,0 +1,46 @@
+ext.versions = [
+    minSdk                 : 21,
+    compileSdk             : 30,
+    versionCode            : 1,
+    versionName            : '1.0.0',
+
+    // gradle plugins
+    gradleBuildTool        : '4.0.1',
+    spotlessGradle         : '5.2.0',
+    versionPlugin          : '0.23.0',
+
+    // kotlin
+    kotlin                 : '1.4.0',
+
+    // support library
+    materialVersion        : '1.3.0-alpha02',
+    constraintVersion      : '2.0.1',
+
+    // architecture components
+    lifecycleVersion       : '2.2.0',
+    roomVersion            : '2.2.5',
+    archCompomentVersion   : '2.1.0',
+
+    // di
+    koinVersion            : '2.0.1',
+
+    // network
+    retrofitVersion        : '2.9.0',
+    okhttpVersion          : '4.7.2',
+    sandwichVersion        : '1.0.4',
+
+    // coroutines
+    coroutinesVersion      : '1.3.9',
+
+    // glide
+    glideVersion           : '4.11.0',
+
+    // debugging
+    timberVersion          : '4.7.1',
+
+    // whatIf
+    whatIfVersion          : '1.0.6',
+
+    // adapter
+    baseAdapter            : '0.1.3'
+]
